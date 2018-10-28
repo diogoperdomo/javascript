@@ -1,4 +1,3 @@
-# javascript
 Difference among arrays containing JavaScript objects.
 
 If we want to compare javascript objects inside a array and get the difference among them.
